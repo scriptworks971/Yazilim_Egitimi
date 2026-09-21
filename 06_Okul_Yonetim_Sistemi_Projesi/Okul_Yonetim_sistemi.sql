@@ -1,0 +1,1 @@
+-- Okul Yonetim sistemi veritabani projesi
